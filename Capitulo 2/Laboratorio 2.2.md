@@ -1,8 +1,13 @@
+# Práctica 4: Paginación de resultados
+
 **Objetivo:** Implementar y comparar estrategias de paginación en
 Elasticsearch 8.1, comprendiendo cómo afectan al **orden de resultados,
 consistencia, consumo de recursos y comportamiento del \_score** en
 distintos escenarios.
 
+## Duración aproximada:
+- 30 minutos.
+  
 **Actividad 1 — Paginación básica con from y size**
 
 **Objetivo**

@@ -1,6 +1,12 @@
+# Práctica 12: Consultas con ES|QL
+
 **Objetivo:** Utilizar **ES\|QL** para realizar consultas tabulares,
 generar reportes analíticos y construir visualizaciones en Kibana
 mediante un enfoque basado en pipelines.
+
+## Duración aproximada:
+- 45 minutos.
+---------------------------------------------------------------------------------------
 
 **7.1 Generalidades de ES\|QL — Consultas tabulares**
 

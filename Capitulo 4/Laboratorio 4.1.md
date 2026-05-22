@@ -1,7 +1,12 @@
+# Práctica 6: Creando analizadores personalizados
+
 **Objetivo:** Diseñar analizadores personalizados en Elasticsearch para
 controlar el proceso de análisis de texto (tokenización, normalización y
 filtrado), evaluando su impacto en búsquedas, scoring y agregaciones.
 
+## Duración aproximada:
+- 45 minutos.
+  
 **Actividad 1 — Comparación de analizadores integrados**
 
 **Objetivo**

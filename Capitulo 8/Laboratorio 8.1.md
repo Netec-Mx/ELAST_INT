@@ -1,3 +1,5 @@
+# Práctica 14 : Consultas con Elasticsearch SQL
+
 **Objetivo:** Construir consultas SQL en Elasticsearch para generar
 reportes tabulares, comprendiendo:
 
@@ -8,6 +10,9 @@ reportes tabulares, comprendiendo:
 - control de acceso
 
 - limitaciones y buenas prácticas
+
+## Duración aproximada:
+- 60 minutos.
 
 ------------------------------------------------------------------------
 

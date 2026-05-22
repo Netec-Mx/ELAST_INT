@@ -1,5 +1,12 @@
+# Práctica 11: Aplicando Reindex API
+
 **Objetivo:** Aplicar la API de **reindexación en Elasticsearch 8.1**
 para:
+
+## Duración aproximada:
+- 30 minutos.
+
+----------------------------------------------------------------------------------------------
 
 - migrar datos entre índices
 

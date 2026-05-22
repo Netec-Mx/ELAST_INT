@@ -3,9 +3,6 @@
 **Objetivo:** Implementar actualizaciones masivas eficientes en
 Elasticsearch utilizando **Bulk API + Painless**, comprendiendo:
 
-## Duración aproximada:
-- 60 minutos.
-------------------------------------------------------------------------------------  
 - formato NDJSON
 
 - tipos de operación (index, update, delete)
@@ -15,6 +12,10 @@ Elasticsearch utilizando **Bulk API + Painless**, comprendiendo:
 - optimización de rendimiento
 
 - comportamiento interno (inmutabilidad y reindexación)
+
+## Duración aproximada:
+- 60 minutos.
+------------------------------------------------------------------------------------  
 
 **Concepto clave previo (fundamental)**
 

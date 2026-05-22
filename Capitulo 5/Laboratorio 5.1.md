@@ -1,8 +1,11 @@
+# Práctica 9: Trabajando con painless Script
+
 **Objetivo:** Aplicar Painless para implementar lógica de negocio
 avanzada en Elasticsearch, comprendiendo su sintaxis, acceso a datos
 (doc vs ctx), y su impacto en rendimiento y scoring.
 
-------------------------------------------------------------------------
+## Duración aproximada:
+- 60 minutos.
 
 **Actividad 1 — Estructura básica de un script Painless**
 

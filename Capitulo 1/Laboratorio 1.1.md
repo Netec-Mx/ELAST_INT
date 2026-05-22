@@ -10,6 +10,9 @@
 
 - Ingerir datos desde un archivo CSV y validar búsquedas.
 
+## Duración aproximada:
+- 60 minutos.
+
 **Escenario**
 
 **Ejercicio 1: Analizar el dataset**

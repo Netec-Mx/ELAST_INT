@@ -1,3 +1,5 @@
+# Práctica 15: Identificación de errores comunes
+
 **Objetivo**
 
 Identificar, reproducir y resolver los errores más comunes en
@@ -5,6 +7,8 @@ Elasticsearch, aplicando técnicas de diagnóstico y optimización para
 mejorar la estabilidad y reducir latencias en consultas críticas (por
 ejemplo, dashboards financieros en tiempo real).
 
+## Duración aproximada:
+- 30 minutos.
 ------------------------------------------------------------------------
 
 **Parte 1 — Identificación de errores comunes**

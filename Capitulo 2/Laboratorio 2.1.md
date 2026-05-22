@@ -1,9 +1,14 @@
+# Práctica 3: Consultando datos
+
 **Objetivo:** Desarrollar la capacidad de **gestionar documentos y
 construir consultas eficientes en Elasticsearch 8.1**, comprendiendo el
 comportamiento de los distintos tipos de búsqueda, la diferencia entre
 datos analizados y exactos, y el impacto del **\_score en la relevancia
 y el rendimiento**.
 
+## Duración aproximada:
+- 60 minutos.
+  
 **Actividad 1 — Ciclo de vida del documento**
 
 (2.1 Creación, búsqueda, actualización, eliminación)

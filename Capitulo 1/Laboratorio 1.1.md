@@ -1,3 +1,5 @@
+# Práctica 1: Importación de archivos de diferentes formatos
+
 **Objetivos de aprendizaje**
 
 - Comprender cómo se estructura un índice en Elasticsearch.

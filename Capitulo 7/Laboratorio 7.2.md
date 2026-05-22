@@ -1,10 +1,14 @@
+# Práctica 13: Creando visualizaciones con Kibana
+
 **Objetivo**
 
 Construir visualizaciones en Kibana a partir de consultas ES\|QL,
 permitiendo transformar datos tabulares en gráficos útiles para análisis
 de desempeño, monitoreo y negocio.
 
-------------------------------------------------------------------------
+## Duración aproximada:
+- 45 minutos.
+---------------------------------------------------------------------------
 
 **Concepto clave**
 

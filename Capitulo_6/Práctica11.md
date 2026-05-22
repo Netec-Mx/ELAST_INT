@@ -3,11 +3,6 @@
 **Objetivo:** Aplicar la API de **reindexación en Elasticsearch 8.1**
 para:
 
-## Duración aproximada:
-- 30 minutos.
-
-----------------------------------------------------------------------------------------------
-
 - migrar datos entre índices
 
 - transformar documentos durante la copia
@@ -18,7 +13,10 @@ para:
 
 Comprendiendo su proceso interno y su impacto en el rendimiento.
 
-------------------------------------------------------------------------
+## Duración aproximada:
+- 30 minutos.
+
+----------------------------------------------------------------------------------------------
 
 **Concepto clave previo**
 

@@ -1,7 +1,12 @@
+# Práctica 7: Aplicando scoring en consultas
+
 **Objetivo:** Diseñar consultas en Elasticsearch 8.1 que **aprovechen y
 controlen el \_score**, combinando relevancia textual con reglas de
 negocio (montos, fechas, tipo de transacción), y evaluando su impacto en
 el ranking y el rendimiento.
+
+## Duración aproximada:
+- 60 minutos.
 
 **Actividad 1 — Observación básica del \_score con match**
 

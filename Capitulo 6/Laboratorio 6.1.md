@@ -1,6 +1,11 @@
+# Práctica 10: Actualizaciones masivas con Bulk API y Painless
+
 **Objetivo:** Implementar actualizaciones masivas eficientes en
 Elasticsearch utilizando **Bulk API + Painless**, comprendiendo:
 
+## Duración aproximada:
+- 60 minutos.
+  
 - formato NDJSON
 
 - tipos de operación (index, update, delete)

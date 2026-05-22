@@ -1,9 +1,14 @@
+# Práctica 5 : Trabajando con jerarquías en documentos
+
 **Objetivo:** Diseñar e implementar modelos de datos jerárquicos en
 Elasticsearch 8.1, comprendiendo las diferencias con modelos
 relacionales, evaluando el uso de **arreglos, documentos anidados
 (nested) y relaciones tipo join**, y aplicando consultas eficientes que
 equilibren **precisión, relevancia (\_score) y rendimiento**.
 
+## Duración aproximada:
+- 60 minutos.
+  
 **Actividad 1 — Necesidad de jerarquías vs modelo relacional**
 
 **Objetivo**

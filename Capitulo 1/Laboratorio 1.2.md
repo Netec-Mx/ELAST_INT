@@ -1,4 +1,8 @@
-Objetivo: Diseñar e implementar una estrategia integral de gestión de
+# Práctica 2: Trabajando con templates
+
+## Objetivo de la práctica:
+
+Diseñar e implementar una estrategia integral de gestión de
 índices en Elasticsearch 8.1, basada en el uso de **index templates
 (composable), component templates y buenas prácticas de modelado**, que
 permita **automatizar la creación de índices de transacciones**,
@@ -6,6 +10,9 @@ garantizar **consistencia en mappings, settings y aliases**, y optimizar
 el **rendimiento, escalabilidad y mantenibilidad** del sistema a partir
 del modelo de datos
 
+## Duración aproximada:
+- 45 minutos.
+  
 **1. Definición de Index Template para *Operations***
 
 **Objetivo**

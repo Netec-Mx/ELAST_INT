@@ -1,3 +1,5 @@
+# Práctica 8: Aplicando agregaciones
+
 **Objetivo del laboratorio**
 
 Construir consultas analíticas mediante agregaciones y subagregaciones
@@ -5,7 +7,8 @@ que permitan **resumir, agrupar y calcular métricas** sobre datos
 transaccionales, comprendiendo el impacto del tipo de campo, el uso de
 keyword vs text, y la relación entre **query, filter y agregaciones**.
 
-------------------------------------------------------------------------
+## Duración aproximada:
+- 30 minutos.
 
 **Actividad 1 — Aggregation básica (terms sobre keyword)**
 

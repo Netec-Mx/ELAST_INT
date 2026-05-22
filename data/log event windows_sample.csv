@@ -1,0 +1,51 @@
+DateTime,EventID,Level,Source,Message
+2026-05-22 09:00:00,6008,Error,EventLog,Previous system shutdown was unexpected
+2026-05-22 09:03:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:06:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:09:00,1000,Error,Application Error,Application crash detected
+2026-05-22 09:12:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:15:00,7036,Information,Service Control Manager,Service entered running state
+2026-05-22 09:18:00,1000,Error,Application Error,Application crash detected
+2026-05-22 09:21:00,4625,Warning,Security,Failed login attempt
+2026-05-22 09:24:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:27:00,1000,Error,Application Error,Application crash detected
+2026-05-22 09:30:00,6008,Error,EventLog,Previous system shutdown was unexpected
+2026-05-22 09:33:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:36:00,1000,Error,Application Error,Application crash detected
+2026-05-22 09:39:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:42:00,4625,Warning,Security,Failed login attempt
+2026-05-22 09:45:00,7036,Information,Service Control Manager,Service entered running state
+2026-05-22 09:48:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:51:00,6005,Information,EventLog,Event log service started
+2026-05-22 09:54:00,1000,Error,Application Error,Application crash detected
+2026-05-22 09:57:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:00:00,6008,Error,EventLog,Previous system shutdown was unexpected
+2026-05-22 10:03:00,4625,Warning,Security,Failed login attempt
+2026-05-22 10:06:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:09:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:12:00,1000,Error,Application Error,Application crash detected
+2026-05-22 10:15:00,7036,Information,Service Control Manager,Service entered running state
+2026-05-22 10:18:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:21:00,1000,Error,Application Error,Application crash detected
+2026-05-22 10:24:00,4625,Warning,Security,Failed login attempt
+2026-05-22 10:27:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:30:00,6008,Error,EventLog,Previous system shutdown was unexpected
+2026-05-22 10:33:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:36:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:39:00,1000,Error,Application Error,Application crash detected
+2026-05-22 10:42:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:45:00,4625,Warning,Security,Failed login attempt
+2026-05-22 10:48:00,1000,Error,Application Error,Application crash detected
+2026-05-22 10:51:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:54:00,6005,Information,EventLog,Event log service started
+2026-05-22 10:57:00,1000,Error,Application Error,Application crash detected
+2026-05-22 11:00:00,6008,Error,EventLog,Previous system shutdown was unexpected
+2026-05-22 11:03:00,6005,Information,EventLog,Event log service started
+2026-05-22 11:06:00,4625,Warning,Security,Failed login attempt
+2026-05-22 11:09:00,6005,Information,EventLog,Event log service started
+2026-05-22 11:12:00,6005,Information,EventLog,Event log service started
+2026-05-22 11:15:00,7036,Information,Service Control Manager,Service entered running state
+2026-05-22 11:18:00,6005,Information,EventLog,Event log service started
+2026-05-22 11:21:00,6005,Information,EventLog,Event log service started
+2026-05-22 11:24:00,1000,Error,Application Error,Application crash detected
+2026-05-22 11:27:00,4625,Warning,Security,Failed login attempt

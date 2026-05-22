@@ -109,13 +109,13 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 12: Consultas con ES|QL](Capitulo_7/Práctica12.md)
 
-  - **Descripción**: Utilizar ES|QL para realizar consultas tabulares, generar reportes analíticos y construir visualizaciones en Kibana mediante un enfoque basado en pipelines.
+  - **Descripción**: Utilizar ES-QL para realizar consultas tabulares, generar reportes analíticos y construir visualizaciones en Kibana mediante un enfoque basado en pipelines.
 
   - ⏱️**Duración estimada**: 45 min.
 
 ### [Práctica 13: Creando visualizaciones con Kibana](Capitulo_7/Práctica13.md)
 
-  - **Descripción**: Construir visualizaciones en Kibana a partir de consultas ES|QL, permitiendo transformar datos tabulares en gráficos útiles para análisis de desempeño, monitoreo y negocio.
+  - **Descripción**: Construir visualizaciones en Kibana a partir de consultas ES-QL, permitiendo transformar datos tabulares en gráficos útiles para análisis de desempeño, monitoreo y negocio.
 
   - ⏱️**Duración estimada**: 45 min.
 
